@@ -1,0 +1,32 @@
+[
+    {
+        "title":"The Witcher 3",
+        "genre":"RPG",
+        "platform":"PC, PS4, Xbox",
+        "rating":9.5
+    },
+    {
+        "title":"Dark Souls 3",
+        "genre":"Action RPG",
+        "platform":"PC, PS4, Xbox",
+        "rating":9.0
+    },
+    {
+        "title":"Halo Infinite",
+        "genre":"FPS",
+        "platform":"PC, Xbox",
+        "rating":8.7
+    },
+    {
+        "title":"Celeste",
+        "genre":"Platformer",
+        "platform":"PC, Switch, PS4",
+        "rating":9.2
+    },
+    {
+        "title":"Stardew Valley",
+        "genre":"Simulation",
+        "platform":"PC, Switch, PS4, Xbox",
+        "rating":9.0
+    }
+]
